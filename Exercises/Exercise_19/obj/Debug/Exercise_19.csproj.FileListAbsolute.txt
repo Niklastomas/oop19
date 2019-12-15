@@ -1,0 +1,7 @@
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\bin\Debug\Exercise_19.exe.config
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\bin\Debug\Exercise_19.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\bin\Debug\Exercise_19.pdb
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\obj\Debug\Exercise_19.csprojAssemblyReference.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\obj\Debug\Exercise_19.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\obj\Debug\Exercise_19.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_19\obj\Debug\Exercise_19.pdb

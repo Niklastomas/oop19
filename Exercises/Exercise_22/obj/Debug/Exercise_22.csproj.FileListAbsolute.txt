@@ -1,0 +1,13 @@
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.exe.config
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.pdb
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.csprojAssemblyReference.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.pdb
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.csprojAssemblyReference.cache
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.exe
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\obj\Debug\Exercise_22.pdb
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.exe.config
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.exe
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_22\bin\Debug\Exercise_22.pdb

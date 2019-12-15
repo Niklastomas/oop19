@@ -1,0 +1,7 @@
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\bin\Debug\Exercise_27.exe.config
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\bin\Debug\Exercise_27.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\bin\Debug\Exercise_27.pdb
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\obj\Debug\Exercise_27.csprojAssemblyReference.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\obj\Debug\Exercise_27.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\obj\Debug\Exercise_27.exe
+C:\Users\nikla\OneDrive\Documents\Humanus\Exercises\Exercise_27\obj\Debug\Exercise_27.pdb

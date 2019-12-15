@@ -1,0 +1,7 @@
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\bin\Debug\Exercise_08.exe.config
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\bin\Debug\Exercise_08.exe
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\bin\Debug\Exercise_08.pdb
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\obj\Debug\Exercise_08.csprojAssemblyReference.cache
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\obj\Debug\Exercise_08.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\obj\Debug\Exercise_08.exe
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_08\obj\Debug\Exercise_08.pdb

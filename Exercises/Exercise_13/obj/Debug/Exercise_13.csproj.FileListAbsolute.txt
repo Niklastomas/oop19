@@ -1,0 +1,6 @@
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\bin\Debug\Exercise_13.exe.config
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\bin\Debug\Exercise_13.exe
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\bin\Debug\Exercise_13.pdb
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\obj\Debug\Exercise_13.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\obj\Debug\Exercise_13.exe
+C:\Users\nikla\source\repos\Humanus\Exercises\Exercise_13\obj\Debug\Exercise_13.pdb

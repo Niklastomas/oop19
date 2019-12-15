@@ -1,0 +1,5 @@
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_23\bin\Release\Exercise_23.exe.config
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_23\bin\Release\Exercise_23.exe
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_23\bin\Release\Exercise_23.pdb
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_23\obj\Release\Exercise_23.exe
+C:\Users\Niklas\OneDrive\Documents\Humanus\Exercises\Exercise_23\obj\Release\Exercise_23.pdb
